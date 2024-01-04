@@ -8,4 +8,4 @@ https://www.cm-alliance.com/cybersecurity-blog/using-metasploit-and-nmap-to-scan
 
 Assignment 2 Link:
 
- https://book.hacktricks.xyz/generic-methodologies-and-resources/shells/msfvenom
+https://book.hacktricks.xyz/generic-methodologies-and-resources/shells/msfvenom
