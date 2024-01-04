@@ -4,6 +4,7 @@ Sir provided us two links for Assignment1 and one link for Assignment2. We have 
 Assignment 1 Links:                                                                                                                                                               
 https://www.offsec.com/metasploit-unleashed/port-scanning/                                                                                                                                                     
 https://www.cm-alliance.com/cybersecurity-blog/using-metasploit-and-nmap-to-scan-for-vulnerabilities
+
 Assignment 2 Link:
 
  https://book.hacktricks.xyz/generic-methodologies-and-resources/shells/msfvenom
